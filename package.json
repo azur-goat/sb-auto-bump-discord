@@ -1,0 +1,12 @@
+{
+  "name": "discord-auto-bump",
+  "version": "1.0.5",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.1.4",
+    "dotenv": "^10.0.0"
+  }
+}
